@@ -9,4 +9,4 @@ PM2.5 Concentration in 2021 -->
 
 ![image](https://user-images.githubusercontent.com/62593634/150922619-ae78145c-0c69-4a53-a1be-39b223482921.png)
 
-Sliding window approach was used to create training examples for our models wherein, prior time steps are used to predict the next time step. The number of previous time steps being used to make the prediction is called window size. Then, multiple types of neural networks including dense neural network, recurrent neural network and convolutional neural network were trained and tested in this project
+Sliding window approach was used to create training examples for our models wherein, prior time steps are used to predict the next time step. The number of previous time steps being used to make the prediction is called window size. Then, multiple types of neural networks including dense neural network, recurrent neural network and convolutional neural network were trained and tested.
